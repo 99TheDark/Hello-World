@@ -35,6 +35,8 @@ No, I am not going to *every* write "Hello world!" in assembly by hand.
 - Ruby
 - Rust
 - Scala
+- Scratch
 - SQL
 - Swift
 - TypeScript
+- Zig
