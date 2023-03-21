@@ -8,6 +8,7 @@ Let me know if you think of any other languages (with some sort of way to write 
 
 ### Current languages (In alphabetical-ish order):
 - Assembly
+- Bash
 - C
 - C++
 - C#
@@ -31,6 +32,7 @@ Let me know if you think of any other languages (with some sort of way to write 
 - Nim
 - Objective-C
 - PHP
+- PowerShell
 - PureScript
 - Python
 - R
