@@ -45,7 +45,7 @@ Let me know if you think of any other languages (with some sort of way to write 
 - Raku
 - Ruby
 - Rust
-- SASS
+- SCSS
 - Scala
 - Scratch
 - Snap
