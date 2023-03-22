@@ -10,6 +10,7 @@ Let me know if you think of any other languages (with some sort of way to write 
 ### Current languages (In alphabetical-ish order):
 - Assembly
 - Bash
+- Brainfuck
 - C
 - C++
 - C#
@@ -23,7 +24,9 @@ Let me know if you think of any other languages (with some sort of way to write 
 - F#
 - Go
 - Haskell
+- Haxe
 - HTML
+- Idris
 - Java
 - JavaScript
 - Julia
@@ -32,6 +35,7 @@ Let me know if you think of any other languages (with some sort of way to write 
 - Lua
 - Nim
 - Objective-C
+- Perl
 - PHP
 - PowerShell
 - Processing
