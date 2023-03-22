@@ -4,3 +4,4 @@
 *.bf linguist-language=Brainfuck
 *.pl linguist-language=Perl
 *.ws linguist-language=Whitespace
+*.sb3 linguist-language=Scratch
