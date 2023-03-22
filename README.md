@@ -14,6 +14,7 @@ Let me know if you think of any other languages (with some sort of way to write 
 - C
 - C++
 - C#
+- Cadence
 - Clojure
 - CoffeeScript
 - Crystal
@@ -21,6 +22,8 @@ Let me know if you think of any other languages (with some sort of way to write 
 - D
 - Dart
 - Elixir
+- ELM
+- Erlang
 - F#
 - Go
 - Haskell
@@ -33,8 +36,12 @@ Let me know if you think of any other languages (with some sort of way to write 
 - Kotlin
 - LiveScript
 - Lua
+- Minecraft
 - Nim
+- NWScript
 - Objective-C
+- Pascal
+- Pawn
 - Perl
 - PHP
 - PowerShell
@@ -43,6 +50,7 @@ Let me know if you think of any other languages (with some sort of way to write 
 - Python
 - R
 - Raku
+- Reason
 - Ruby
 - Rust
 - Scala
