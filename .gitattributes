@@ -1,0 +1,6 @@
+*.java linguist-language=Java
+*.jar linguist-language=Java
+*.class linguist-language=Java
+*.bf linguist-language=Brainfuck
+*.pl linguist-language=Perl
+*.ws linguist-language=Whitespace
