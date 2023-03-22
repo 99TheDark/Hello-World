@@ -53,4 +53,5 @@ Let me know if you think of any other languages (with some sort of way to write 
 - Swift
 - TypeScript
 - Web Assembly
+- Whitespace
 - Zig
