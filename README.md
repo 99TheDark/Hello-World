@@ -1,6 +1,6 @@
 # "Hello world!" in every language I could find or think of
 
-Yes, I copied and pasted a lot. I only know 8 languages, and there is no `print` in GLSL.
+Yes, I copied and pasted a lot. I only know 11 languages, and there is no `print` in GLSL.
 No, I am not going to *every* write "Hello world!" in assembly by hand.
 Yes, I included HTML, CSS, SQL etc.
 No, I am not including libaries, like the many, many, JavaScript ones. They are all the same.
