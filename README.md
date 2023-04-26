@@ -31,6 +31,7 @@ Let me know if you think of any other languages (with some sort of way to write 
 - Haxe
 - HTML
 - Idris
+- J
 - Java
 - JavaScript
 - Julia
@@ -52,6 +53,7 @@ Let me know if you think of any other languages (with some sort of way to write 
 - PureScript
 - Python
 - R
+- Racket
 - Raku
 - Reason
 - Ruby
