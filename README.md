@@ -35,7 +35,6 @@ A project documenting a Hello World script in every programming language I know 
 - Lua
 - Minecraft
 - Nim
-- NWScript
 - Objective-C
 - OCaml
 - Pascal
