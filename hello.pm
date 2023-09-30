@@ -1,1 +1,6 @@
-print("Hello world!\n");
+#!/usr/bin/perl
+
+use strict;
+use warnings;
+
+print("Hello World\n");

@@ -1,63 +1,59 @@
-# Hello World
-A project documenting a Hello World script in every programming language I know or could find. Let me know any I forgot :)
+# Hello, world!
+A project documenting a "Hello, world!" script in every programming language I know or could find. Let me know any I forgot :)
 
 ### Current languages (In alphabetical-ish order):
-- Assembly
-- Bash
-- Brainfuck
-- C
-- C++
-- C#
-- Cadence
-- Clojure
-- CoffeeScript
-- Crystal
-- CSS
-- D
-- Dart
-- Elixir
-- ELM
-- Erlang
-- F#
-- Fortran
-- Go
-- Haskell
-- Haxe
-- HTML
-- Idris
-- J
-- Java
-- JavaScript
-- Julia
-- Kotlin
-- Lisp
-- LiveScript
-- Lua
-- Minecraft
-- Nim
-- Objective-C
-- OCaml
-- Pascal
-- Pawn
-- Perl
-- PHP
-- PowerShell
-- Processing
-- PureScript
-- Python
-- R
-- Racket
-- Raku
-- Reason
-- Ruby
-- Rust
-- Scala
-- Scratch
-- SCSS
-- Snap
-- SQL
-- Swift
-- TypeScript
-- WebAssembly
-- Whitespace
-- Zig
+- AppleScript (.scpt)
+- Assembly (.asm)
+- Bash (.sh)
+- Brainfuck (.bf)
+- C (.c)
+- C++ (.cpp)
+- C# (.cs)
+- Cadence (.cdc)
+- Clojure (.clj)
+- CoffeeScript (.coffee)
+- Crystal (.cr)
+- D (.d)
+- Dart (.dart)
+- Elixir (.exs)
+- ELM (.elm)
+- Erlang (.erl)
+- F# (.fs)
+- Fortran (.f)
+- Go (.go)
+- Haskell (.hs)
+- Haxe (.hx)
+- Holy C (.hc)
+- Idris (.idr)
+- J (.ijs)
+- Java (.java)
+- JavaScript (.js)
+- Julia (.jl)
+- Kotlin (.kt)
+- Lisp (.lsp)
+- LiveScript (.ls)
+- Lua (.lua)
+- Nim (.nim)
+- Objective-C (.m)
+- OCaml (.ml)
+- Pascal (.pas)
+- Pawn (.pwn)
+- Perl (.pm)
+- PHP (.php)
+- PowerShell (.ps1)
+- Processing (.pde)
+- PureScript (.purs)
+- Python (.py)
+- R (.r)
+- Racket (.rkt)
+- Raku (.raku)
+- Reason (.re)
+- Red (.red)
+- Ruby (.rb)
+- Rust (.rs)
+- Scala (.scala)
+- Swift (.swift)
+- TypeScript (.ts)
+- WebAssembly (.wat)
+- Whitespace (.ws)
+- Zig (.zig)

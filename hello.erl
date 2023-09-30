@@ -1,4 +1,4 @@
 -module(hello).
--export([hello_world/0]).
+-export([helloworld/0]).
 
-hello_world() -> io:fwrite("Hello world!\n").
+hello_world() -> io:fwrite("Hello, world!\n").

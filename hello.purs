@@ -2,4 +2,4 @@ module Example where
 
 import Effect.Console (log)
 
-main = log "Hello world!"
+main = log "Hello, world!"

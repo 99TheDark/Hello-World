@@ -2,6 +2,6 @@ program HelloWorld;
 uses crt;
 
 begin
-   writeln('Hello world!');
+   writeln('Hello, world!');
    readkey;
 end. 

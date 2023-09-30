@@ -1,9 +1,8 @@
 pub contract HelloWorld {
-
     pub let greeting: String
 
     init() {
-        self.greeting = "Hello world!"
+        self.greeting = "Hello, world!"
     }
 
     pub fun hello(): String {
